@@ -49,13 +49,13 @@
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=tlashla373&label=Profile%20Views&color=0&icon=2&pretty=true" alt="Profile Visit Counter" />
+  <img src="https://komarev.com/ghpvc/?username=tlashla373&label=Profile%20views&color=0e75b6&style=flat" alt="tlashla373" />
 </p>
 
 ---
 
 <h2 align="center">🐍 Watch my contribution graph get eaten by the snake</h2>
 <p align="center">
-  <img src="https://github.com/tlashla373/tlashla373/blob/output/github-contribution-grid-snake.svg" alt="snake gif"/>
+  <img src="https://github.com/Shehanka/Shehanka/blob/output/github-contribution-grid-snake.svg" alt="snake gif"/>
 </p>
 
