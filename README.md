@@ -56,6 +56,6 @@
 
 <h2 align="center">🐍 Watch my contribution graph get eaten by the snake</h2>
 <p align="center">
-  <img src="https://github.com/tlashla373/tlashla373/blob/output/github-contribution-grid-snake.svg" alt="snake gif"/>
+  <img src="https://raw.githubusercontent.com/tlashla373/tlashla373/output/github-contribution-grid-snake.svg" alt="snake gif"/>
 </p>
 
