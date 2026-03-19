@@ -1,20 +1,47 @@
 <h1 align="center">💫 Hi 👋, I'm Supun Hashintha</h1>
+<div align="center">
+
+
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF5F6D&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Frontend+Enthusiast)
+
+
+[![GitHub Followers](https://img.shields.io/github/followers/tlashla373?label=Follow&amp;style=social)](https://github.com/tlashla373)
+
+
+
+
+
+</div>
+
 
 <p align="center">
 🔭 I’m currently working on <br>
 🌱 I’m currently learning <b>MongoDB, Express, React, Node.js, and Next.js</b><br>
-📫 How to reach me: <b>hashinthaliyanaarchchi373@gmail.com</b>
 </p>
 
 ---
 
 <h2 align="center">🌐 Socials</h2>
 <p align="center">
-  <a href="https://facebook.com/supun hashintha"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/></a>
-  <a href="https://instagram.com/supun hashintha"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/supun hashintha"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/supun hashintha"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"/></a>
-  <a href="mailto:hashinthaliyanaarchchi373@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
+  <a href="https://facebook.com/supun hashintha">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/supun hashintha">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/supun hashintha">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://gaming-portfolio-phi.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://x.com/supun hashintha">
+    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"/>
+  </a>
+  <a href="mailto:hashinthaliyanaarchchi373@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -56,6 +83,8 @@
 
 <h2 align="center">🐍 Watch my contribution graph get eaten by the snake</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tlashla373/tlashla373/output/github-contribution-grid-snake.svg" alt="snake gif"/>
+  <img src="https://tlashla373.github.io/tlashla373/github-contribution-grid-snake.svg" alt="snake gif"/>
 </p>
+
+
 
