@@ -13,7 +13,7 @@ jobs:
 
     steps:
       - name: Generate snake.svg
-        uses: Platane/snk/gh-action@v3
+        uses: Platane/snk@v3
         with:
           github_user_name: tlashla373
           outputs: |
